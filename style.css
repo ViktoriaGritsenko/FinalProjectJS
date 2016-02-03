@@ -5,8 +5,6 @@ padding:3px;
 height:20px;
 width:180px;
 text-align:center;
-
-
 }
 
 #headerCell{
@@ -16,6 +14,7 @@ color:white;
 background: #DE8887;
 text-align:center;
 }
+
 .headerCell td{
 background:yellow;
 border:solid black 1px;
@@ -62,6 +61,7 @@ padding:5px;
 margin:5px;
 margin-lright:2px;
 }
+
 #backwardMod, #forwardMod, #showAllData{
-	width:200px
+width:200px
 }
