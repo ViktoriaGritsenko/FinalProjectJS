@@ -1,0 +1,67 @@
+td {
+background: #FFE4C4;
+border:solid black 1px;
+padding:3px;
+height:20px;
+width:180px;
+text-align:center;
+
+
+}
+
+#headerCell{
+border:solid black 1px;
+text-align:center;
+color:white;
+background: #DE8887;
+text-align:center;
+}
+.headerCell td{
+background:yellow;
+border:solid black 1px;
+}
+
+div{
+float:left;
+width:50px;
+height:50px;
+background: #F5DEB3;
+margin:auto;
+border:solid black 1px;
+padding:5px;
+margin:5px;
+margin-bottom:25px;
+text-align:center;
+}
+.cellStyles{
+display:block;
+margin:auto;
+
+}
+table{
+position:absolute;
+top:190px;
+
+}
+div span{
+line-height:3em;
+text-align:center;
+}
+
+#submit{
+background: #F5DEB3;
+border:solid black 1px;
+padding:5px;
+margin:5px;
+margin-left:2px;
+}
+
+#filterParameter{
+border:solid black 1px;
+padding:5px;
+margin:5px;
+margin-lright:2px;
+}
+#backwardMod, #forwardMod, #showAllData{
+	width:200px
+}
